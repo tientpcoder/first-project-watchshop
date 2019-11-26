@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 23, 2019, 3:16:19 PM
+    Author     : tientruong
+*/
+
+h3{
+    font-family: 'Jomolhari', serif;
+}
+.grey{
+    color: grey;
+}
+img{
+    width: 450px;
+    height: 420px;
+}
+.footer{
+    margin-bottom: 0px;
+}
+#addcart{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    display: block;
+}

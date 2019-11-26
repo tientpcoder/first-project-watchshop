@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2019, 10:06:19 PM
+    Author     : tientruong
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2019, 10:03:56 PM
+    Author     : tientruong
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2019, 9:38:09 AM
+    Author     : tientruong
+*/
+
+.card-title{
+    color: black !important;
+    font-family: 'Libre Baskerville', serif !important;
+    font-size: 15px;
+}
+.card-title:hover{
+    color: red !important;
+    text-decoration: underline;
+}
+.navbar-brand{
+    font-family: 'Notable', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: white;
+}
+.bg-light{
+    background-color: black  !important;
+}
+.navbar-light {
+    color: white;
+}
+.navbar-brand {
+    color: black;}
+.navbar-brand:hover {
+    color: white !important;}
+.nav-item{
+    padding: 0 20px;
+}
+.carousel-item{
+    height: 989px;
+}
+.card{
+    text-align: center;
+}
+.nav-item .nav-link:hover{
+    color: #f1c40f !important;
+}
+.navbar-brand{
+    font-family: 'Notable', sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: white;
+}
+
+.navbar-light {
+    color: white;
+}
+.navbar-brand {
+    color: black;}
+.nav-item{
+    padding: 0 20px;
+}
+.carousel-item{
+    height: 989px;
+}
+.card{
+    text-align: center;
+}
+.gia{
+    font-weight: bold;
+    color: grey;
+}
+.nav-item .nav-link:hover{
+    color: #f1c40f !important;
+}
+
+footer{
+    font-family: 'Be Vietnam', sans-serif;
+    text-decoration: none;	
+    color: white	}
+footer a{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+}
+footer{
+    margin-bottom: 0px;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+
